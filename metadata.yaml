@@ -1,0 +1,46 @@
+_repo: '------_34434'
+_version: 0.1.0
+alternative_title: Macbeth. Greek
+contributor:
+  translator:
+    agent_name: Vikelas, Demetrios
+    aliases:
+    - Bikelas, Demetrios
+    - Bikelas, Demetrius
+    - Βικέλας, Δημήτριος
+    birthdate: 1835
+    deathdate: 1908
+    gutenberg_agent_id: '6012'
+    url: http://www.gutenberg.org/2009/agents/6012
+    wikipedia: http://en.wikipedia.org/wiki/Demetrius_Vikelas
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspeare, William
+    - Shakspere, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: ''
+gutenberg_issued: '2010-11-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34434'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scotland -- Kings and rulers -- Drama'
+- !lcc 'PR'
+- !lcsh 'Macbeth, King of Scotland, active 11th century -- Drama'
+- !lcsh 'Tragedies'
+- !lcsh 'Regicides -- Drama'
+title: Μάκβεθ
+url: http://www.gutenberg.org/ebooks/34434
